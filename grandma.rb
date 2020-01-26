@@ -7,5 +7,4 @@ phrase = speak_to_granmda
 	else
   	puts "HUH?! SPEAK UP, SONNY!"
 	end
-end
 
