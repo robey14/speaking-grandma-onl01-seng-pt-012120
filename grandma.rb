@@ -1,4 +1,4 @@
-
+def speak_to_grandma(phrase)
 
 if phrase == "SPEAK_TO_GRANDMA"
   puts "NO, NOT SINCE 1938!"
